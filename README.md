@@ -5,4 +5,6 @@ https://github.com/Phlow/feeling-responsive
 
 https://phlow.github.io/feeling-responsive/documentation/
 
+https://jekyllthemes.io/theme/feeling-responsive
+
 Link back to https://www.svtemplenc.org/
