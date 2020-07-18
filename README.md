@@ -2,7 +2,7 @@
 Sri Venkateswara Temple of North Carolina - Rajagopuram Updates
 
 Web Site :-
-https://svtempleofnc.github.io/
+## https://svtempleofnc.github.io/
 
 Link back to https://www.svtemplenc.org/
 
