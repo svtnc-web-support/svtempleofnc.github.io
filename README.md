@@ -6,7 +6,6 @@ Web Site :-
 
 Link back to https://www.svtemplenc.org/
 
-
 Code :-
 https://github.com/svtempleofnc/svtempleofnc.github.io
 
