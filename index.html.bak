@@ -166,12 +166,12 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                             style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><br>
                                                             <br>
                                                           </span>
-                                                          <table style="width: 476px; height: 134px; text-align: left; margin-left: auto; margin-right: auto;"
+                                                          <table style="width: 476px; height: 134px; text-align: left; margin-left: auto; margin-right: auto;border: 1px solid black;"
                                                             border="0">
                                                             <tbody>
                                                               <tr>
-                                                                <td style="background-color: #ffffcc;">
-                                                                  <div style="text-align: center;"><b>Construction
+                                                                <td style="background-color: #ffffcc;border:1px solid #FF0000;">
+                                                                  <div style="text-align: center; color: #006600;"><b>Construction
                                                                   Progress</b><br>
                                                                   <strong></strong></div>
                                                                   <strong><br>
@@ -179,29 +179,30 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                                   <table style="width: 100%;"
                                                                   border="0">
                                                                   <tbody>
+                                                                  
                                                                   <tr>
-                                                                  <td><strong><span
-                                                                  style="color: #993300;">Bhoomi
-                                                                  Puja<br>
+                                                                  <td style="border:0px solid #FF0000;"><strong><span
+                                                                  style="color: #006600;">Bhoomi Puja
+                                                                  <br>
                                                                   </span></strong></td>
-                                                                  <td>&nbsp;Complete<strong><span
-                                                                  style="color: #993300;"><br>
-                                                                  </span></strong></td>
-                                                                  </tr>
-                                                                  <tr>
-                                                                  <td><strong><span
-                                                                  style="color: #006600;">Shanku
-                                                                  Stapanam<br>
-                                                                  </span></strong></td>
-                                                                  <td><strong><span
+                                                                  <td style="border:1px solid #FF0000;"><strong><span
                                                                   style="color: #006600;">&nbsp;Complete<br>
                                                                   </span></strong></td>
                                                                   </tr>
                                                                   <tr>
-                                                                  <td><strong><span
+                                                                    <td style="border:0px solid #FF0000;"><strong><span
+                                                                    style="color: #006600;">Shanku
+                                                                    Stapanam<br>
+                                                                    </span></strong></td>
+                                                                    <td style="border:1px solid #FF0000;"><strong><span
+                                                                    style="color: #006600;">&nbsp;Complete<br>
+                                                                    </span></strong></td>
+                                                                    </tr>
+                                                                  <tr>
+                                                                  <td style="border:0px solid #FF0000;"><strong><span
                                                                   style="color: #006600;">Construction<br>
                                                                   </span></strong></td>
-                                                                  <td>&nbsp;Started
+                                                                  <td style="border:1px solid #FF0000;">&nbsp;Started
                                                                   and to be
                                                                   Completed by
                                                                   June 2021<br>
@@ -301,30 +302,12 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                       cellpadding="5"
                                                       border="1">
                                                       <tbody>
-                                                        <tr bgcolor="#ffcc00">
-                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><span
-                                                              class="Apple-style-span"
-                                                              style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                class="Apple-style-span"
-                                                                style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"></span></span></span></span></span></span></span></span><span
-                                                              style="color: #0000ee;"></span>
-                                                            <b style="font-weight:normal;"
-                                                              id="docs-internal-guid-fe91ebb9-7fff-b16c-e2ef-64cdaf286691"><img
-                                                                src="https://lh3.googleusercontent.com/npfxJFBhjpDqHmMgWOWF5AzYIPglbRy_pNRy0mDfd1BWphnVP15wpdnpOslijDG9c7xWO4cly6RL4vJYRVtThvqrvlQe1HzceB7GHntcDOTiHKNrdeIgPEfT82qAG0QbhBP1S_vYZhTCVywJxw"
-                                                                style="width: 169px; height: 98px;"></b>
+                                                        <tr bgcolor="#990099">
+                                                          <td style="margin: 0px; font-family: arial,sans-serif; background-color: rgb(204, 153, 51);">Get Inspired<br>
                                                           </td>
+                                                        </tr>
+                                                        <tr bgcolor="#ffcc00">
+                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><iframe width="180" height="104" src="https://www.youtube.com/embed/2gWx6gYy7zU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                                                         </tr>
                                                       </tbody>
                                                     </table>
@@ -354,23 +337,7 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                           </td>
                                                         </tr>
                                                         <tr bgcolor="#ffcc00">
-                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><span
-                                                              class="Apple-style-span"
-                                                              style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                class="Apple-style-span"
-                                                                style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"><span
-                                                                  class="Apple-style-span"
-                                                                  style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); font-size: medium;"></span></span></span></span></span></span>
-                                                            <b style="font-weight:normal;"
-                                                              id="docs-internal-guid-cda1fce3-7fff-a413-4d7e-bd1bded6a98c"><img
-                                                                src="https://lh5.googleusercontent.com/-K2XUrK29ibM3ItSiRg5N6I2kOYICOYIb-5viWgZIzxxSHuy86odBNL29TxeEzA57viLPmvvZPXeFsqWk9UQKJMLOtTih_Q7VdXtVyIOaQQ_LwEVJTy7i7YVKTBNEjfubGOy97IvYdDMwVeaiA"
-                                                                style="width: 170px; height: 104px;"></b>
+                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><iframe width="180" height="104" src="https://www.youtube.com/embed/Re0vF1HPIUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                           </td>
                                                         </tr>
                                                       </tbody>
@@ -400,13 +367,7 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                           </td>
                                                         </tr>
                                                         <tr bgcolor="#ffcc00">
-                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;">
-                                                            <b style="font-weight:normal;"
-                                                              id="docs-internal-guid-624c7887-7fff-f27b-970d-dfd822a6d064"><img
-                                                                src="https://lh5.googleusercontent.com/UW-1WTakH6NzRxpYCjQRNnrMhcDKtZ1i5slrDj8mYGEzeKaPnPzpU6eqCYvODvYLHrdvcaKd9URY_dRNRkckv7if_ypbSQqyvW3V1VN6pbQCTDGcCJnDCzI0bPuq6tC-PhmeoVyPmXGBtPLOJg"
-                                                                style="width: 166px; height: 124px;"></b>
-                                                            <br>
-                                                            <span style="color: #0000ee;"></span></td>
+                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><iframe width="180" height="104" src="https://www.youtube.com/embed/1kBeLsRhOUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                                                         </tr>
                                                       </tbody>
                                                     </table>
@@ -430,18 +391,12 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                       border="1">
                                                       <tbody>
                                                         <tr bgcolor="#990099">
-                                                          <td style="margin: 0px; font-family: arial,sans-serif; background-color: rgb(204, 153, 51);">Event
-                                                            Gallery<br>
+                                                          <td style="margin: 0px; font-family: arial,sans-serif; background-color: rgb(204, 153, 51);">Bhoomi Puja Video
+                                                            <br>
                                                           </td>
                                                         </tr>
                                                         <tr bgcolor="#ffcc00">
-                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><span
-                                                              style="color: #0000ee;"></span>
-                                                            <b style="font-weight:normal;"
-                                                              id="docs-internal-guid-830e6f05-7fff-faf3-aeb2-93b96b037b7a"><img
-                                                                src="https://lh6.googleusercontent.com/spkxzpOKedXNj0XQMCi0qwteOHCDq9mQrOqVRFnjXaq4-EShyxsYE1FgtWMsf8jTxDGWcsSc3W_CJAhLOYptBtYAqoQ_NzA6vWBemBH4P9ADofwwOhCcCM_FOYwFcuBprbnyDQeM7VkLGPsoAw"
-                                                                style="width: 173px; height: 130px;"></b>
-                                                          </td>
+                                                          <td style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; height: 54px; font-family: arial,sans-serif; background-color: #fff1b4; text-align: left; color: #006600;"><iframe width="180" height="104" src="https://www.youtube.com/embed/xDt0G2qI3rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                                                         </tr>
                                                       </tbody>
                                                     </table>
@@ -507,74 +462,72 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                     <td style="margin: 0px; font-family: arial,sans-serif; background-color: rgb(204, 153, 51); width: 15px;">&nbsp;</td>
                   </tr>
                   <tr>
+                    <td style="margin: 0px; font-family: arial,sans-serif; width: 15px; background-color: rgb(204, 153, 51);">&nbsp;</td>
+                    <td colspan="4" style="border: 1px solid rgb(255, 255, 153); margin: 0px; font-family: arial,sans-serif; background-color: rgb(255, 193, 64);">
+                      <br>
+                      <div align="center"><a href="/20200723-Weekly.html">Link to Latest Newsletter</a></div>
+                      
+                      <br>
+                    </td>
+                    <td style="margin: 0px; font-family: arial,sans-serif; background-color: rgb(204, 153, 51); width: 15px;">&nbsp;</td>
+                  </tr>
+                  <tr>
                     <td style="margin: 0px; font-family: arial,sans-serif; vertical-align: top; background-color: rgb(204, 153, 51);"><br>
                     </td>
                     <td colspan="4" rowspan="1" style="margin: 0px; font-family: arial,sans-serif; width: 718px; height: 242px; text-align: center; font-size: medium; font-weight: normal;">
-                      <table style="font-family: arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 241, 180); width: 100%;"
+                      
+                        <table style="font-family: arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); width: 100%;"
                         cellspacing=""
                         cellpadding="1"
                         border="1">
                         <tbody>
                           <tr>
-                            <td><br>
-                            </td>
-                            <td colspan="4"><iframe src="https://www.youtube.com/embed/2gWx6gYy7zU"
+                            <td colspan="5"><br>
+                              Upcoming Raja Gopuram Fund Raising Event <br>
+                              <br>
+                              On the occasion of Garuda Panchami there will be an English discourse by Sri Dushyanth Sridhar.<br><br> <b>Garuda - The Eternal Devotee Of The Lord</b>on <b>25th from 11:30 am</b> at <a href="https://www.youtube.com/svtempleofnc">Link</a><br>
+                              <br>
+                              <iframe src="https://www.youtube.com/embed/2gWx6gYy7zU"
                                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen=""
                                 height="354"
                                 frameborder="0"
-                                width="615"></iframe><br>
-                            </td>
+                                width="615"></iframe></td>
                           </tr>
                           <tr>
                             <td><br>
+                              Past Events Videos<br>
+                              and SVTNC Photos<br>
                             </td>
-                            <td><br>
+                            <td colspan="2"><br>
+                              July 18th : Smt.Yamini Reddy&apos;s Kuchipudi<br>Nrutya Seva <br>
+                              <br>
+                              <iframe src="https://www.youtube.com/embed/vvxUo2A7qDc"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen=""
+                                height=""
+                                frameborder="0"
+                                width="300"></iframe>
+                                <br>
                             </td>
-                            <td><br>
+
+                            <td colspan="2"><br>
+                              June 27th : Gana Gopuram by Sri. Ramachary group<br>
+                              Naada Seva<br>
+                              <br>
+                              <iframe src="https://www.youtube.com/embed/68kEIl80ilw"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen=""
+                                height=""
+                                frameborder="0"
+                                width="300"></iframe>
+                                <br>
                             </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
+                            
                           </tr>
+                          <tr></tr>
+                          
                           <tr>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                            <td><br>
-                            </td>
-                          </tr>
-                          <tr bgcolor="#ffcc00">
                             <td> <b style="font-weight:normal;" id="docs-internal-guid-f41a1401-7fff-a7ad-2757-fe5010fcb0fe"><img
                                   src="https://lh3.googleusercontent.com/wTvi8o0mNUX69mIsditx1uU17jo4OSFiUf2gj3-geYSIQ8yJQEs6UOZFDNTnckb_f2ilHG2ytEtbKA2PLeO1toV-mETuqdcnpgbaBrFS8UU6VlHBaj-ax_rkie7VCHGUsEsxyK_bhIzq76p-gA"
                                   height="98px;"
@@ -603,7 +556,8 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                             </td>
                           </tr>
                         </tbody>
-                      </table>
+                        </table>
+                      
                     </td>
                     <td style="margin: 0px; font-family: arial,sans-serif; vertical-align: top; background-color: rgb(204, 153, 51);"><br>
                       <br>
@@ -629,8 +583,8 @@ style="font-size:9pt;font-family:'Century Gothic',sans-serif;color:#000000;backg
                                                   style="font-family: arial,sans-serif;"><span
                                                     style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; font-size: medium;"><span
                                                       style="font-family: arial,sans-serif;"><strong><span
-                                                          style="color: rgb(102, 51, 0); font-size: small;">?????
-                                                          ?????? ??????? &nbsp;
+                                                          style="color: rgb(102, 51, 0); font-size: small;">&#2343;&#2352;&#2381;&#2350;&#2379;
+                                                          &#2352;&#2325;&#2381;&#2359;&#2340;&#2367; &#2352;&#2325;&#2381;&#2359;&#2367;&#2340;&#2307; &nbsp;
                                                           |&nbsp; </span></strong></span></span></span></span></span></span></span>Dharmo
 Rakshati
                                         Rakshitah | Dharma Protects those who
