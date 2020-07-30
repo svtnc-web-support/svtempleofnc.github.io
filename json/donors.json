@@ -1,0 +1,17 @@
+[
+  {
+    "Donor_Name": "ABC",
+    "Number_Of_Bricks_Donated": 10,
+    "Date_of_Donation": "July 30"
+  },
+  {
+    "Donor_Name": "DEF",
+    "Number_Of_Bricks_Donated": 5,
+    "Date_of_Donation": "July 26"
+  },
+  {
+    "Donor_Name": "XYZ",
+    "Number_Of_Bricks_Donated": 1,
+    "Date_of_Donation": "July 1"
+  }
+]
