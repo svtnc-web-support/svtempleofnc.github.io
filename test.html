@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html class="zg-html">
+
+<head>
+  <meta charset="utf-8">
+  <title>ZingGrid: Simple Grid</title>
+  <script src="https://cdn.zinggrid.com/dev/zinggrid-dev.min.js" defer></script>
+  <style>
+    .zg-body {
+      background: #e6e6e6;
+    }
+
+    .zg-body zing-grid[loading] {
+      height: 400px;
+    }
+
+    zing-grid[loading] {
+      height: 421px;
+    }
+  </style>
+</head>
+
+<body class="zg-body">
+  <zing-grid caption="<code>url</code> Column Type" search sort src="https://raw.githubusercontent.com/svtempleofnc/rajagopuramupdates/master/bricks.json">
+    <zg-column index="Month" header="Month" type="image"></zg-column>
+    <zg-column index="Total_Bricks" header="Total_Bricks"></zg-column>
+  
+  </zing-grid>
+  <script></script>
+</body>
+
+</html>
