@@ -65,7 +65,7 @@
 	function buildTable() {
 		getCSV.call(this).then(function(response){
 			var allRows = response.split(/\r?\n|\r/).filter(isNotEmpty);
-	        var table = '<table>';
+	        var table = '<table id=t01>';
 	        for (var singleRow = 0; singleRow < allRows.length; singleRow++) {
 	            if (singleRow === 0) {
 	                table += '<thead>';
@@ -101,7 +101,7 @@
 		var scriptHTML = table;
 		main.innerHTML = scriptHTML;
 			
-	        document.body.innerHTML += table;
+	        //document.body.innerHTML += table;
 		}, function(error){
 			console.error(error);
 		});
