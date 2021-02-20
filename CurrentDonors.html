@@ -101,7 +101,17 @@ DhAn&nbsp;&nbsp;
                         border="0">
                         <tbody>
                           <tr>
-                           
+                            <!-- Table of current active donors -->
+                            <script src="/CsvToTable.js"></script>
+                            <script>
+                              var csvtotable = new CsvToTable({
+                                csvFile: '/SVT Rajagopuram Brick Doantion0206.csv'
+                              });
+                              csvtotable.run();
+                            </script>
+                            
+                            
+                            
                             <td style="margin: 0px; font-family: arial,sans-serif; background-color: rgb(255, 193, 64);"
                               width="1">&nbsp;</td>
                             <td rowspan="30" style="margin: 0px; font-family: arial,sans-serif;"
