@@ -96,7 +96,7 @@
 	        table += '</tbody>';
 	        table += '</table>';
 
-		const main = document.getElementById('donorlist');
+		const main = document.getElementById('donorList');
 
 		const scriptHTML += table;
 		main.innerHTML = scriptHTML;
