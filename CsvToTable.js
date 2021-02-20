@@ -96,6 +96,11 @@
 	        table += '</tbody>';
 	        table += '</table>';
 
+		const main = document.getElementById('donorlist');
+
+		const scriptHTML += table;
+		main.innerHTML = scriptHTML;
+			
 	        document.body.innerHTML += table;
 		}, function(error){
 			console.error(error);
