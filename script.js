@@ -30,6 +30,10 @@ var tabulate = function (data,columns) {
 
 d3.csv('/SVT Rajagopuram Brick Doantion0206.csv',function (data) {
 	var columns = ['Date','Name','Qty','Amount']
-	console.log(data);
-  tabulate(data,columns)
+	//console.log(data);
+	var main = document.getElementById('donorList');
+
+		var scriptHTML = tabulate(data,columns); //table;
+		main.innerHTML = scriptHTML
+  //tabulate(data,columns)
 })
