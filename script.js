@@ -1,5 +1,5 @@
 var tabulate = function (data,columns) {
-  var table = d3.select('body').append('table')
+  var table = d3.select('body').append('table').attr('id':'TS01')
 	var thead = table.append('thead')
 	var tbody = table.append('tbody')
 
@@ -32,8 +32,8 @@ d3.csv('/SVT Rajagopuram Brick Doantion0206.csv',function (data) {
 	var columns = ['Date','Name','Qty','Amount']
 	//console.log(data);
 	var main = document.getElementById('donorList');
-
+	var scriptHTML=tabulate(data,columns)
 		//var scriptHTML = tabulate(data,columns); //table;
-		//main.innerHTML = scriptHTML
-  tabulate(data,columns,main)
+		main.innerHTML = scriptHTML
+  //tabulate(data,columns,main)
 })
