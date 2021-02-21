@@ -29,6 +29,7 @@ var tabulate = function (data,columns) {
 }
 
 d3.csv('/SVT Rajagopuram Brick Doantion0206.csv',function (data) {
-	var columns = ['Date','Name','Qty','Amount','D']
+	var columns = ['Date','Name','Qty','Amount']
+	console.log(data);
   tabulate(data,columns)
 })
