@@ -1,5 +1,5 @@
 var tabulate = function (data,columns) {
-  var table = d3.select('body').append('table').attr('id':'TS01')
+  var table = d3.select('body').append('table').attr('id':'t01')
 	var thead = table.append('thead')
 	var tbody = table.append('tbody')
 
