@@ -1,0 +1,251 @@
+/* --- Header Styles --- */
+body{
+  font-size: .9rem;
+  line-height:1.25;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+nav{
+  font-size: 1rem; 
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: -10%;
+ }
+ 
+.was-validated .invalid-feedback{
+	display: block
+}
+
+ .sidebar{
+  z-index: 100; /* Behind the navbar */
+  padding: 24px 0 0; /* Height of navbar */
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+  height: 600px;
+}
+
+
+.sidebar-heading {
+  text-transform: uppercase;
+}
+
+.sidebar .nav-link {
+  color: #333;
+}
+
+.sidebar-sticky {
+	  font-size: .9rem;
+  position: relative;
+  top: 0;
+  padding-top: .5rem;
+ }
+
+
+label.required:after { 
+   content:" *";
+   color:red;
+}
+
+
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+ 
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}
+
+@media (min-width: 768px) { 
+	.brand a {
+	    font-size: 16px
+	}
+	.navbar-justified {
+	    width: 100%
+	}
+	.navbar-justified > li {
+	    float: none;
+	    display: table-cell;
+	    width: 1%;
+	}
+	.navbar-justified > li > a {
+	    text-align: center;
+	}
+	.navbar-justified > .dropdown .dropdown-menu {
+	    top: auto;
+	    left: auto;
+	}
+	
+	.navbar-justified .dropdown-menu {
+	  min-width:100%;
+	}
+}
+
+/** - Print CSS-- **/
+
+@media print {
+    body {
+        margin: 0;
+        padding: 0;
+        line-height: 1.4em;
+        word-spacing: 1px;
+        letter-spacing: 0.2px;
+        font: 13px Arial, Helvetica,"Lucida Grande", serif;
+        color: #000;
+    }
+ 
+ 	#print-btn {
+        display: none;
+    }   
+}
+
+@page {
+    margin: 2cm;
+	size: auto;
+	
+    @top-center {
+        content: element(pageHeader);
+    }
+
+    @bottom-center {
+        content: element(pageFooter);
+    }
+}
+
+/** -- Print **/
+
+/*--- Footer Styles --- */
+.footer{ background:#fcac01;}
+.footer-bor{background:url("../images/footer-bor.png") no-repeat right center;}
+
+.footerbottom{ background-color:#fc9601;  padding-bottom:0px; padding-top:0px;}
+
+
+
+.btn-toggle {
+  margin: 0 4rem;
+  padding: 0;
+  position: relative;
+  border: none;
+  height: 1.5rem;
+  width: 3rem;
+  border-radius: 1.5rem;
+  color: #6b7381;
+  background: #bdc1c8;
+}
+.btn-toggle:focus,
+.btn-toggle.focus,
+.btn-toggle:focus.active,
+.btn-toggle.focus.active {
+  outline: none;
+}
+
+
+.btn-toggle:before,
+.btn-toggle:after {
+  line-height: 1.5rem;
+  width: 4rem;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  position: absolute;
+  bottom: 0;
+  transition: opacity .25s;
+}
+.btn-toggle:before {
+  content: 'Off';
+  left: -4rem;
+}
+.btn-toggle:after {
+  content: 'On';
+  right: -4rem;
+  opacity: .5;
+}
+.btn-toggle > .handle {
+  position: absolute;
+  top: 0.1875rem;
+  left: 0.1875rem;
+  width: 1.125rem;
+  height: 1.125rem;
+  border-radius: 1.125rem;
+  background: #fff;
+  transition: left .25s;
+}
+.btn-toggle.active {
+  transition: background-color 0.25s;
+}
+.btn-toggle.active > .handle {
+  left: 1.6875rem;
+  transition: left .25s;
+}
+.btn-toggle.active:before {
+  opacity: .5;
+}
+.btn-toggle.active:after {
+  opacity: 1;
+}
+ 
+ 
+.btn-toggle:before,
+.btn-toggle:after {
+  color: #6b7381;
+}
+.btn-toggle.active {
+  background-color: #29b5a8;
+}
+ 
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
