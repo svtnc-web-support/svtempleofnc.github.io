@@ -15,7 +15,7 @@ var jsonresponse = {
       moon: "Mithuna",
       moonrise: "07:33:42",
       nakshatra: "Aardra 07:27:48",
-      paksha: "Shukla Paksha",
+      paksha: "Shukla Paksha",  
       rahukala: "09:37:25-11:26:17",
       sun: "Vrishabha",
       sun_set: "20:30:37",
@@ -613,7 +613,6 @@ function setHtmlTableContent(panchangamData){
     var month = months[ today.getMonth() ];
     var dd = today. getDate();
     var yyyy = today. getFullYear();
-    console.log('this is cool');
     console.log(panchangamData);
     document.getElementById("todaysDateLabel").innerHTML = "Today: "+day+" "+month+" "+dd+", "+yyyy;
     document.getElementById("tithiLabel").innerHTML = panchangamData.tithi;
