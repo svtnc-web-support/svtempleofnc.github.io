@@ -10613,7 +10613,7 @@ function loadJSON(callback) {
 loadJSON(function(response) {
     var todaysDate;
     todaysDate = getTodaysDate();
-    console.log(todaysDate);
+    //console.log(todaysDate);
 
     // create JSON variable
     //jsonresponse = JSON.parse(jsontext);
