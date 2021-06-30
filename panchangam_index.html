@@ -1,70 +1,105 @@
 <html>
+
 <head>
-<title>       </title>
-<style type="text/css">
-    h5{
-    box-sizing: border-box; 
-    margin: 0px 0px 0.5rem; 
-    padding: 0px; 
-    font-weight: bold; 
-    line-height: 1.2; 
-    font-size: 1.25rem; 
-    text-align: left; 
-    text-indent: 0px; 
-    text-transform: none; 
-    white-space: normal; widows: 2; 
-    font-family: "Open Sans", Helvetica, Arial, sans-serif; 
-    }
-</style>
+	<title> </title>
+	<style type="text/css">
+		body {
+			font-size: .9rem;
+			line-height: 1.25;
+			font-family: "Open Sans", Helvetica, Arial, sans-serif;
+		}
+
+		h5 {
+			box-sizing: border-box;
+			margin: 0px 0px 0.5rem;
+			padding: 0px;
+			font-weight: bold;
+			line-height: 1.2;
+			font-size: 1.25rem;
+			text-align: left;
+			text-indent: 0px;
+			text-transform: none;
+			white-space: normal;
+		}
+
+		.webPanelSubtitle {
+			font-size: 17px;
+			font-weight: bold;
+		}
+
+		.table-bordered {
+			border-collapse: collapse;
+		}
+
+		.table-bordered td,
+		.table-bordered th {
+			border: 1px solid #dee2e6;
+			padding: .3rem;
+			font-size: .9em;
+			line-height: 1.25;
+		}
+
+		.table-bordered tr {
+			display: table-row;
+			vertical-align: inherit;
+			border-color: inherit;
+		}
+
+		.table-bordered th {
+			vertical-align: middle;
+			text-align: left;
+		}
+	</style>
 
 </head>
+
 <body>
-<div></div>
+	<div></div>
 
-<h5>Panchangam</h5>
-<div><span id="todaysDateLabel">Today: Sunday May 30, 2021</span>
+	<h5>Panchangam</h5>
+	<div><span id="todaysDateLabel" class="webPanelSubtitle">Today: Sunday May 30, 2021</span>
 
-	<table style="box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; border-collapse: collapse; border: 0px; empty-cells: show; max-width: 100%; width: 350px; color: rgb(33, 37, 41);">
-		<tbody style="box-sizing: border-box; margin: 0px; padding: 0px;">
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Thithi</th>
-				<td><span id="tithiLabel"></span>
-				</td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Nakshatram</th>
-				<td><span id="nakshatraLabel"></span></td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Sun Sign</th>
-				<td><span id="sunLabel"></span></td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Sun Rise &amp; Set</th>
-				<td><span id="sunriseLabel"></span> - <span id="sun_setLabel"></span></td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">AmritaKalam</th>
-				<td><span id="amritkalamLabel"></span></td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Durmuhurtham</th>
-				<td><span id="durmuhurthaLabel"></span></td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Rahukaalam</th>
-				<td><span id="rahukalaLabel"></span></td>
-			</tr>
-			<tr style="box-sizing: border-box; margin: 0px; padding: 0px; user-select: none;">
-				<th style="box-sizing: border-box; margin: 0px; padding: 0.3rem; text-align: inherit; user-select: text; border: 1px solid rgb(222, 226, 230); background: rgb(230, 230, 230); vertical-align: top;">Yamagandam</th>
-				<td><span id="yamagandaLabel"></span></td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+		<table class="table-bordered">
+			<tbody>
+				<tr>
+					<th>Thithi</th>
+					<td><span id="tithiLabel"></span>
+					</td>
+				</tr>
+				<tr>
+					<th>Nakshatram</th>
+					<td><span id="nakshatraLabel"></span></td>
+				</tr>
+				<tr>
+					<th>Sun Sign</th>
+					<td><span id="sunLabel"></span></td>
+				</tr>
+				<tr>
+					<th>Sun Rise &amp; Set</th>
+					<td><span id="sunriseLabel"></span> - <span id="sun_setLabel"></span></td>
+				</tr>
+				<tr>
+					<th>AmritaKalam</th>
+					<td><span id="amritkalamLabel"></span></td>
+				</tr>
+				<tr>
+					<th>Durmuhurtham</th>
+					<td><span id="durmuhurthaLabel"></span></td>
+				</tr>
+				<tr>
+					<th>Rahukaalam</th>
+					<td><span id="rahukalaLabel"></span></td>
+				</tr>
+				<tr>
+					<th>Yamagandam</th>
+					<td><span id="yamagandaLabel"></span></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 
 
-<script type="text/javascript" src="customscript.js"></script>
+	<script type="text/javascript" src="customscript.js"></script>
 </body>
+
 </html>
-	
